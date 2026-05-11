@@ -11,7 +11,7 @@
     }
 
     // 2. Установка конфигурационных параметров
-    Lampa.Storage.set('torrserver_url', 'http://192.168.1.17:8090');
+    Lampa.Storage.set('torrserver_url', 'http://194.177.1.115:8090');
     Lampa.Storage.set('torrserver_auth', 'false');
 
     // 3. Установка логина (используем явную цепочку для ясности)
